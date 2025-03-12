@@ -59,11 +59,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 3. Evaluate the model performance.
 4. Use the trained model for predicting calories burnt.
 
----
-
-### 👨‍💻 Author
-Developed by [Your Name]
-
-### 📜 License
-This project is licensed under the MIT License.
 
